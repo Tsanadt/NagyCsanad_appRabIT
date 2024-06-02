@@ -1,0 +1,1 @@
+The app was tested in XAMPP(Apache Webserver), it is advised to use it.

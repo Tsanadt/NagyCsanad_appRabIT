@@ -1,0 +1,20 @@
+body{
+    background-color: cadetblue;
+    font-family: Arial;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+
+}
+a{
+    text-decoration: none;
+}
+.block{
+    background-color: darkgrey;
+    padding: 15pt;
+    border: 5pt solid black;
+    border-radius: 5pt;
+    width: 120pt;
+    text-align: center;
+    margin: 20pt;
+}
